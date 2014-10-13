@@ -3,8 +3,8 @@
 *   สวัดดี ฉันคือ Saiber gamer จาก youtube.com/Saibergamerls
 *   Language : Thailand
 *   facebook.com/saibergamer
-*   
-*   
+*   สวัสดีพี่ saiber เดี้ยวผมช่วยแปลให้นะชื่อ Bossy0
+*   ผมเล่นเซิฟพี่นะ
 *   
 */
 
@@ -359,7 +359,7 @@ item.TwistedSpoon.name=ช้อนบิด เพื่มพลังธา�
 item.destinyKnot.name=ด้ายแห่งโชคชะตา โปเกม่อนตรงข้ามจะติด อินเลิฟ
 
 item.chisel.name=Chisel
-item.ranchupgrade.name=Ranch Upgrade
+item.ranchupgrade.name=อับเกรดที่ฟักไข่
 
 
 item.TM1 - Hone Claws.name=TM1: โฮน โครว
@@ -515,26 +515,26 @@ attack.growl.description=ลดค่าโจมตีอีกฟ่าย
 attack.leech seed.name=กระสุนเมล็ดพืช
 attack.leech seed.description=ขโมยเลือดของอีกฟ่าย
 attack.vine whip.name=แส้เถาวัลย์
-attack.vine whip.description=The foe is struck with slender, whiplike vines.
+attack.vine whip.description=ใช้แส้ที่เหมือนเถาวัลย์
 attack.poison powder.name=ผงพิษ
 attack.poison powder.description=ทำให้ศัตรูติดพิษ
 attack.sleep powder.name=ผงนอนหลับ
-attack.sleep powder.description=The user scatters a big cloud of sleep-inducing dust around the foe.
+attack.sleep powder.description=ผู้ใช้จะปล่อยเมฆกลุ่มใหญ่
 attack.take down.name=พุ่งชนแบบแรง
 attack.take down.description=สร้างความเสียหายให้ผู้ใช้นิดหนึง
 attack.razor leaf.name=คัตเตอร์ใบไม้
 attack.razor leaf.description=มีโอกาสติดคริสูง
-attack.sweet scent.name=Sweet Scent
-attack.sweet scent.description=A pleasant aroma that distracts the target, making the opponent easier to hit.
+attack.sweet scent.name=ปล่อยกลิ่นหอมหวาน
+attack.sweet scent.description=ทำให้เราตีโดนศัตรูง่ายขึ้น
 attack.growth.name=เจริญเติมโต
 attack.growth.description=ผู้ใช้จะเพื่มค่าโจมตีพิเศษ
-attack.double-edge.name=Double-Edge
-attack.double-edge.description=A reckless, life-risking tackle. It also damages the user by a fairly large amount, however.
-attack.worry seed.name=Worry Seed
+attack.double-edge.name=ดับเบิ้ลเอด
+attack.double-edge.description=เป็นท่าโจมตีที่มีความเสี่ยงต่อชีวิตโจมตีแรง
+attack.worry seed.name=เมล็ดระวัง
 attack.worry seed.description=A seed that causes worry is planted on the foe. It prevents sleep by making its ability Insomnia.
-attack.synthesis.name=Synthesis
-attack.synthesis.description=Allows HP to be restored by the sunlight. In battle, half the user's max HP is restored.
-attack.seed bomb.name=Seed Bomb
+attack.synthesis.name=สังเคราะแสง
+attack.synthesis.description=ใช้แสงอาทิตย์ในการเพื่มเลือดจะเพื่มครึ่งนึ่งของเลือดเต็ม
+attack.seed bomb.name=เมล็ดระเบิด
 attack.seed bomb.description=The user slams a barrage of hard-shelled seeds down on the target from above.
 attack.toxic.name=Toxic
 attack.toxic.description=A move that leaves the target badly poisoned. Its poison damage worsens every turn.
@@ -4071,10 +4071,10 @@ pixelmon.effect.toxicspikes=Toxic spikes were laid around %s
 pixelmon.effect.floatingstones=Pointed stones float in the air around %s
 pixelmon.effect.createsubstitute=%s created a substitute!
 pixelmon.effect.trickroomnormal=The room returned to normal....  Or is it!!!???
-pixelmon.effect.becamedrowsy=%s became drowsy
-pixelmon.effect.alreadydrowsy=%s is already drowsy!
+pixelmon.effect.becamedrowsy=%s ง่วง
+pixelmon.effect.alreadydrowsy=%sง่วงอยู่แล้ว!
 
-pixelmon.status.ringheal=%s is healed by it's ring
+pixelmon.status.ringheal=%s ถูกฮิวจากวงแหวน
 pixelmon.status.burnhurt=%s ไฟใหม้ไ
 pixelmon.status.confusionsnap=%s โครตมึนเบยย
 pixelmon.status.confused=%s มึนงง.............
